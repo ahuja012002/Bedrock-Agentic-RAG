@@ -57,3 +57,8 @@ Keep default preprocessing settings
 Embeddings Model
 
 Select: Titan Embeddings G1 - Text
+Vector Store : Select Quickly create a new Vector Store -> OpenSearch Serverless
+Click Create 
+
+<img width="1478" height="231" alt="Screenshot 2025-08-25 at 1 19 34 PM" src="https://github.com/user-attachments/assets/12336f25-b7b2-4f25-b601-f0f350d7408c" />
+
