@@ -1,0 +1,95 @@
+ACMEMFG INDUSTRIES
+FREQUENTLY ASKED QUESTIONS - CUSTOMER SUPPORT
+Last Updated: January 2024
+GENERAL QUESTIONS
+Q: What is the warranty period for AcmeMfg equipment?
+A: Standard warranty is 1-2 years depending on the product. Industrial pumps (XM series) have 2-yearwarranty, conveyor systems (CB series) have 1-year warranty, and hydraulic presses (HP series) have 3-yearwarranty. Extended warranty options are available.
+Q: How do I find my product serial number?
+A: Serial numbers are located on the product nameplate, typically mounted on the main housing or motor.Format is usually MODEL-YEAR-SEQUENCE (e.g., XM2000-2024-001).
+Q: What maintenance is required for optimal performance?
+A: Each product has a specific maintenance schedule included in the product manual. Generally, daily visualinspections, weekly lubrication, monthly detailed checks, and annual overhauls are recommended.
+Q: How do I order replacement parts?
+A: Parts can be ordered through:
+- Online parts portal: parts.acmemfg.com
+- Phone: 1-800-ACME-PARTS
+- Email: parts@acmemfg.com
+Always provide model number, serial number, and part description.
+TECHNICAL QUESTIONS
+Q: Why is my pump losing prime frequently?
+A: Common causes include:
+- Air leaks in suction piping
+- Insufficient NPSH (Net Positive Suction Head)
+- Worn impeller or casing
+- Damaged mechanical seals
+Check suction system integrity first, then inspect pump internals.
+Q: How do I adjust conveyor belt tracking?
+A: Belt tracking is adjusted using the tracking rollers:
+1. Observe belt movement direction
+2. If belt moves toward one side, adjust the roller on that side
+3. Small adjustments only - 1/4 turn maximum
+4. Run belt and observe for 5-10 minutes before further adjustment
+Q: What causes hydraulic press cylinder drift?
+A: Cylinder drift is typically caused by:
+- Internal seal wear allowing bypass
+- Contaminated hydraulic fluid
+- Valve leakage
+- System pressure loss
+Check fluid condition and system pressure first.
+Q: Can I upgrade the control system on older equipment?
+A: Yes, retrofit control packages are available for most equipment over 5 years old. Contact technical supportwith your model and serial number for compatibility assessment.
+ORDER AND DELIVERY
+Q: What is the typical lead time for new equipment?
+A: Standard products: 6-8 weeks
+Custom configurations: 10-12 weeks
+Replacement parts: 1-2 weeks
+Express parts: 2-3 days (additional charges apply)
+Q: Do you provide installation services?
+A: Yes, certified installation teams are available. Installation includes:
+- Site preparation verification
+- Equipment positioning and alignment
+- Electrical connections (by licensed electrician)
+- Startup and commissioning
+- Operator training
+Q: What are the payment terms?
+A: Standard terms are net 30 days for established customers. New customers require 50% deposit with order,balance due before shipment. Extended payment terms available for qualified customers.
+SERVICE AND SUPPORT
+Q: Do you provide 24/7 emergency service?
+A: Yes, emergency service is available 24/7/365. Call 1-800-ACME-911. Emergency service covers:
+- Critical equipment failures
+- Safety-related issues
+- Production line shutdowns
+Emergency service charges apply for non-warranty issues.
+Q: How do I schedule preventive maintenance?
+A: Contact our service department:
+- Phone: 1-800-ACME-SERVICE
+Sample Document 4: Parts Catalog (parts-catalog/xm-2000-parts.txt)
+- Email: service@acmemfg.com
+- Online: service.acmemfg.com
+Preventive maintenance contracts available with priority scheduling.
+Q: What training is available for operators?
+A: Training options include:
+- On-site training at your facility
+- Training center courses at AcmeMfg headquarters
+- Online training modules
+- Video-based training materials
+Contact training@acmemfg.com for schedule and pricing.
+SAFETY AND COMPLIANCE
+Q: Are your products compliant with industry standards?
+A: Yes, all AcmeMfg products comply with relevant standards:
+- OSHA safety requirements
+- ANSI/ASME standards
+- CE marking for European markets
+- ISO 9001 quality management
+Compliance certificates available upon request.
+Q: How do I report a safety concern?
+A: Safety concerns should be reported immediately:
+- Phone: 1-800-ACME-SAFETY
+- Email: safety@acmemfg.com
+- Online form: safety.acmemfg.com
+All reports are investigated within 24 hours.
+Q: Where can I find safety data sheets (SDS) for lubricants?
+A: Safety data sheets are available:
+- Product packaging and labels
+- Online database: sds.acmemfg.com
+- Customer service: 1-800-ACME-TECH
+Always use recommended lubricants for optimal performance and warranty compliance.
