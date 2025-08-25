@@ -297,6 +297,3 @@ Add a entry into Route 53 hosted Zone. By following these we will be able to run
 
 
 
-<img width="369" height="591" alt="Screenshot 2025-08-25 at 4 01 58 PM" src="https://github.com/user-attachments/assets/c5fd0ffe-146b-4c3e-b620-53c885eadfdb" />
-
-## Step 
