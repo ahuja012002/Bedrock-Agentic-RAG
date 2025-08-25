@@ -182,5 +182,121 @@ Description: Production alias for manufacturing support agent
 
 Prepare Agent
 
-Click "Prepare" to compile the agent
-Wait for preparation to complete
+## Step 7 : Lambda Function Code Implementation
+
+Code Provided in repo. 
+Upload to Lambda
+
+Go to Lambda Console
+Select your function: manufacturing-chatbot-actions
+Click "Upload from" → ".zip or .jar file"
+Upload the JAR file from target/chatbot-lambda-1.0.0.jar
+
+
+Update Function Configuration
+
+Runtime settings:
+
+Handler: com.manufacturing.chatbot.handler.ChatbotLambdaHandler::handleRequest
+
+
+Environment variables:
+
+AWS_REGION: us-east-1
+SPRING_PROFILES_ACTIVE: lambda
+
+## Step 8: Test Lambda Function
+
+Create test event in Lambda console:
+
+{
+  "actionGroup": "ProductActions",
+  "apiPath": "/product-specs",
+  "httpMethod": "POST",
+  "requestBody": {
+    "content": {
+      "application/json": {
+        "body": "{\"productModel\": \"XM-2000\", \"specificationType\": \"technical\"}"
+      }
+    }
+  }
+}
+
+## Step 9 : Knowledge Base Documents Upload to S3
+
+Upload the provided Knowledge base documents to s3.
+
+## Step 10 : Test Bedrock Agent 
+
+<img width="369" height="591" alt="Screenshot 2025-08-25 at 4 01 58 PM" src="https://github.com/user-attachments/assets/bdbb2ad5-2e9f-4875-a0f0-f5e5bbaafdaa" />
+
+## Step 11 : Create a Frontend
+
+Create a S3 bucket and upload the index.html file in the bucket. Enable static website hosting on the bucket.
+
+<img width="1493" height="390" alt="Screenshot 2025-08-25 at 4 07 50 PM" src="https://github.com/user-attachments/assets/c758cdad-faa9-4d3d-9d48-8655075b8276" />
+
+index.html is available in the code repo
+
+## Step 12 : Create API Gateway
+
+Phase 5: API Gateway Integration
+Step 12: Create API Gateway
+
+Navigate to API Gateway Console
+
+Go to AWS Console → API Gateway
+Click "Create API"
+Choose "REST API" → "Build"
+
+
+API Configuration
+
+API name: Manufacturing-Chatbot-API
+Description: API for manufacturing customer support chatbot
+Endpoint Type: Regional
+
+
+Create Resource
+
+Click "Actions" → "Create Resource"
+Resource Name: chat
+Resource Path: /chat
+Enable CORS: Yes
+
+
+Create Method
+
+Select /chat resource
+Click "Actions" → "Create Method"
+Method: POST
+Integration type: Lambda Function
+Lambda Function: chat-function
+
+<img width="1386" height="100" alt="Screenshot 2025-08-25 at 4 10 07 PM" src="https://github.com/user-attachments/assets/c7e8c1cf-9cdc-41aa-8197-5b0a353c1f72" />
+
+## Step 13 : Lambda Function to invoke Bedrock Agent
+
+Create a Lambda function chat-function . Upload the given python file to the code. Build and Deploy.
+
+## Replace API Gateway path in the index.html in S3.
+
+## Step 14 : Test the AI application
+
+<img width="1151" height="772" alt="Screenshot 2025-08-25 at 4 14 11 PM" src="https://github.com/user-attachments/assets/ef5399de-740c-48f0-816f-2c6f55efc69b" />
+
+## Step 15 (Optional ) : Map it to the domain (using Cloudfront)
+
+if you own a domain and want to run the application using your domain. We need to procure certificate using AWS ACM, Create a cloud front distribution.
+Add a entry into Route 53 hosted Zone. By following these we will be able to run AI application in our owned domain.
+
+<img width="1180" height="949" alt="Screenshot 2025-08-25 at 4 16 02 PM" src="https://github.com/user-attachments/assets/88136ea9-4786-429d-93db-a765148fe41f" />
+
+
+# Congratulations , We have now successfully configured AI Application for customer support of a manufacturing Company using Agentic RAG powered by Amazon Bedrock
+
+
+
+<img width="369" height="591" alt="Screenshot 2025-08-25 at 4 01 58 PM" src="https://github.com/user-attachments/assets/c5fd0ffe-146b-4c3e-b620-53c885eadfdb" />
+
+## Step 
