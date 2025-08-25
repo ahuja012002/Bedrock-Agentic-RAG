@@ -1,0 +1,117 @@
+ACMEMFG INDUSTRIES
+PARTS CATALOG - XM-2000 INDUSTRIAL PUMP
+Document Version: 3.0
+Last Updated: January 2024
+PUMP ASSEMBLY COMPONENTS
+IMPELLER ASSEMBLY
+Part Number: XM2000-IMP-001
+Description: Cast stainless steel impeller, balanced
+Application: All XM-2000 configurations
+Price: $485.00
+Lead Time: 2-3 weeks
+Notes: Available in 6", 8", 10", and 12" sizes
+Part Number: XM2000-IMP-KEY
+Description: Impeller key, hardened steel
+Application: All XM-2000 configurations
+Price: $12.50
+Lead Time: Stock item
+Notes: Replace during impeller installation
+CASING COMPONENTS
+Part Number: XM2000-CASE-6
+Description: Volute casing, cast iron, 6" inlet
+Application: XM-2000 with 6" inlet configuration
+Price: $1,250.00
+Lead Time: 4-6 weeks
+Notes: Includes wear ring
+Part Number: XM2000-CASE-8
+Description: Volute casing, cast iron, 8" inlet
+Application: XM-2000 with 8" inlet configuration
+Price: $1,450.00
+Lead Time: 4-6 weeks
+Notes: Includes wear ring
+MECHANICAL SEALS
+Part Number: XM2000-SEAL-STD
+Description: Standard mechanical seal, carbon/ceramic
+Application: General purpose applications
+Price: $165.00
+Lead Time: 1 week
+Notes: Temperature limit 200°F
+Part Number: XM2000-SEAL-HT
+Description: High-temperature mechanical seal, silicon carbide
+Application: High-temperature applications up to 400°F
+Price: $285.00
+Lead Time: 2 weeks
+Notes: Required for steam service
+BEARING ASSEMBLY
+Part Number: XM2000-BRG-ASSY
+Description: Complete bearing assembly with housing
+Application: All XM-2000 configurations
+Price: $320.00
+Lead Time: 1-2 weeks
+Notes: Includes grease fittings
+COUPLING COMPONENTS
+Part Number: XM2000-COUP-GRID
+Description: Grid coupling, complete with covers
+Application: Standard motor connections
+Price: $145.00
+Lead Time: Stock item
+Notes: Includes coupling grease
+Part Number: XM2000-COUP-FLEX
+Description: Flexible coupling for variable speed drives
+Application: VFD applications
+Price: $225.00
+Lead Time: 1 week
+Notes: Reduces vibration transmission
+GASKETS AND O-RINGS
+Part Number: XM2000-GSKT-CASE
+Description: Casing gasket set
+Application: All XM-2000 configurations
+Price: $35.00
+Lead Time: Stock item
+Notes: Includes all casing gaskets
+Part Number: XM2000-ORING-KIT
+Description: O-ring kit, various sizes
+Application: All XM-2000 configurations
+Price: $25.00
+Lead Time: Stock item
+Notes: NBR material, standard temperature range
+ELECTRICAL COMPONENTS
+Part Number: XM2000-MTR-25HP
+Description: Motor, 25 HP, TEFC, 1750 RPM
+Application: Low flow applications
+Price: $1,850.00
+Lead Time: 3-4 weeks
+Notes: 460V, 3-phase, premium efficiency
+Part Number: XM2000-MTR-50HP
+Description: Motor, 50 HP, TEFC, 1750 RPM
+Application: Medium flow applications
+Price: $2,450.00
+Lead Time: 3-4 weeks
+Notes: 460V, 3-phase, premium efficiency
+Part Number: XM2000-MTR-100HP
+Description: Motor, 100 HP, TEFC, 1750 RPM
+Application: High flow applications
+Price: $3,850.00
+Lead Time: 4-6 weeks
+Notes: 460V, 3-phase, premium efficiency
+COMPATIBILITY MATRIX
+XM-2000 Configuration | Compatible Parts
+6" Inlet, 25 HP | IMP-001(6"), CASE-6, SEAL-STD, MTR-25HP
+8" Inlet, 50 HP | IMP-001(8"), CASE-8, SEAL-STD, MTR-50HP
+10" Inlet, 75 HP | IMP-001(10"), CASE-10, SEAL-HT, MTR-75HP
+12" Inlet, 100 HP | IMP-001(12"), CASE-12, SEAL-HT, MTR-100HP
+ORDERING INFORMATION
+To order parts:
+1. Provide pump model and serial number
+2. Specify part number and quantity
+3. Include purchase order number
+4. Confirm shipping address
+Standard shipping: UPS Ground (5-7 business days)
+Express shipping: UPS Next Day (additional charges apply)
+International shipping: Contact customer service for rates and lead times
+All parts carry 1-year warranty from date of shipment.
+Installation services available for major components.
+For technical assistance with parts selection:
+Phone: 1-800-ACME-PARTS
+Email: parts@acmemfg.com
+Hours: Monday-Friday, 8 AM - 6 PM EST
