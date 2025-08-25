@@ -1,0 +1,85 @@
+ACMEMFG INDUSTRIES
+WARRANTY TERMS AND CONDITIONS
+Effective Date: January 1, 2024
+STANDARD WARRANTY COVERAGE
+INDUSTRIAL PUMPS (XM SERIES)
+Warranty Period: 24 months from date of shipment
+Coverage: Defects in materials and workmanship
+Covered Components:
+- Pump casing and volute
+- Impeller assembly
+- Mechanical seals
+- Bearing assemblies
+- Coupling components
+CONVEYOR SYSTEMS (CB SERIES)
+Warranty Period: 12 months from date of shipment
+Coverage: Defects in materials and workmanship
+Covered Components:
+- Drive motor and gearbox
+- Belt and tracking system
+- Roller assemblies
+- Control system components
+- Structural framework
+HYDRAULIC PRESSES (HP SERIES)
+Warranty Period: 36 months from date of shipment
+Coverage: Defects in materials and workmanship
+Covered Components:
+- Hydraulic cylinders and pumps
+- PLC control system
+- HMI touchscreen
+- Safety systems
+- Structural components
+WARRANTY EXCLUSIONS
+The following are NOT covered under warranty:
+- Normal wear and tear items (belts, seals, filters)
+- Damage from improper installation
+- Damage from operating outside specified parameters
+- Damage from lack of proper maintenance
+- Damage from unauthorized modifications
+- Consumable items (lubricants, cleaning supplies)
+- Damage from environmental factors (flooding, fire, etc.)
+WARRANTY CLAIM PROCESS
+1. Contact AcmeMfg Technical Support at 1-800-ACME-TECH
+2. Provide equipment serial number and purchase information
+3. Describe the problem and operating conditions
+4. Technical support will diagnose and determine warranty coverage
+5. If covered, AcmeMfg will provide replacement parts or repair services at no charge
+6. Customer is responsible for labor costs unless covered by service contract
+EXTENDED WARRANTY OPTIONS
+Extended warranties available for purchase:
+- 1 additional year: 15% of original equipment cost
+- 2 additional years: 25% of original equipment cost
+- 3 additional years: 35% of original equipment cost
+Extended warranty must be purchased within 90 days of original shipment.
+SERVICE LEVEL AGREEMENTS
+Standard Warranty Response Times:
+- Phone support: Within 4 business hours
+- On-site service: Within 48 hours for critical issues
+- Parts shipping: Within 24 hours of approval
+Premium Support (additional cost):
+- Phone support: Within 1 hour
+- On-site service: Within 24 hours
+- Parts shipping: Same day for stock items
+WARRANTY REGISTRATION
+Register your equipment within 30 days of installation:
+- Online: warranty.acmemfg.com
+- Phone: 1-800-ACME-REG
+- Email: warranty@acmemfg.com
+Required information:
+- Equipment model and serial number
+- Purchase date and dealer information
+- Installation date and location
+- Operating conditions and application details
+INTERNATIONAL WARRANTY
+For equipment shipped outside the United States:
+- Warranty terms may vary by country
+- Local authorized dealers handle warranty claims
+- Parts availability may be limited in some regions
+- Contact international.service@acmemfg.com for specific terms
+LIMITATION OF LIABILITY
+AcmeMfg's liability under this warranty is limited to repair or replacement of defective components. AcmeMfgshall not be liable for:
+- Consequential or incidental damages
+- Lost production or downtime costs
+- Labor costs beyond those specifically covered
+- Damage to other equipment or property
+This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.
