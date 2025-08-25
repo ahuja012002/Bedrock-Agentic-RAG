@@ -1,0 +1,103 @@
+ACMEMFG INDUSTRIES
+TROUBLESHOOTING GUIDE - CB-500 CONVEYOR BELT SYSTEM
+Document Version: 2.1
+Last Updated: December 2023
+COMMON ISSUES AND SOLUTIONS
+ISSUE 1: UNUSUAL NOISE FROM CONVEYOR
+Symptoms: Grinding, squealing, or clicking sounds during operation
+Possible Causes and Solutions:
+A. Belt Misalignment
+- Check belt tracking across entire length
+- Adjust tracking rollers according to manual section 4.2
+- Verify pulley alignment using laser alignment tool
+- Solution: Realign belt and adjust tensioning system
+B. Worn Bearings
+- Listen for grinding noise from drive and tail pulleys
+- Check for excessive play in roller bearings
+- Monitor bearing temperature (should not exceed 160°F)
+- Solution: Replace worn bearings, lubricate per schedule
+C. Loose Fasteners
+- Inspect all bolts and mounting hardware
+- Check motor mounting bolts for tightness
+- Verify structural frame connections
+- Solution: Torque all fasteners to specification
+D. Foreign Object in System
+- Stop conveyor immediately if metallic clicking heard
+- Inspect belt surface and pulleys for debris
+- Check under-belt area for accumulated material
+- Solution: Remove debris, install better screening upstream
+ISSUE 2: BELT SLIPPING
+Symptoms: Reduced conveyor speed under load, visible belt movement on pulleys
+Possible Causes and Solutions:
+A. Insufficient Belt Tension
+- Measure belt sag at center span (should be 1-2 inches)
+- Check tension using belt tension gauge if available
+- Solution: Adjust take-up mechanism per manual section 3.4
+B. Worn Pulley Lagging
+- Inspect drive pulley surface for wear or damage
+- Look for glazed or smooth areas on lagging
+- Solution: Replace pulley lagging or resurface pulley
+C. Contaminated Belt Surface
+- Check for oil, grease, or other lubricants on belt
+- Inspect for material buildup on belt surface
+- Solution: Clean belt with approved cleaners, eliminate contamination source
+ISSUE 3: MOTOR OVERHEATING
+Symptoms: Motor running hot, thermal overload tripping
+Possible Causes and Solutions:
+A. Overloading
+- Verify actual load does not exceed rated capacity (5000 lbs max)
+- Check for material accumulation causing drag
+- Monitor amp draw on motor starter
+- Solution: Reduce load or upgrade to higher capacity system
+B. Poor Ventilation
+- Ensure motor cooling fan is operating
+- Check for blocked air vents
+- Verify ambient temperature is within limits (104°F max)
+- Solution: Improve ventilation, clean motor exterior
+C. Voltage Issues
+- Measure voltage at motor terminals
+- Check for voltage imbalance between phases
+- Verify proper motor starter settings
+- Solution: Correct electrical supply issues
+PREVENTIVE MAINTENANCE CHECKLIST
+DAILY
+□ Visual inspection for damage or wear
+□ Check for unusual noise or vibration
+□ Verify emergency stops are functional
+□ Clean belt surface of debris
+WEEKLY
+□ Check belt tension and tracking
+□ Lubricate bearings per lubrication chart
+□ Inspect safety guards and covers
+□ Check motor amp draw
+MONTHLY
+□ Detailed inspection of all rollers
+□ Check pulley alignment
+□ Inspect belt for cuts, tears, or wear
+□ Test all electrical connections
+QUARTERLY
+□ Complete bearing inspection and relubrication
+□ Check structural frame for cracks
+□ Calibrate speed control system
+□ Review maintenance logs and trends
+EMERGENCY PROCEDURES
+1. If unusual noise occurs: Stop conveyor immediately
+2. If smoke or burning smell detected: Shut down power and call emergency service
+3. If personnel injury occurs: Follow site emergency procedures
+4. If material spill occurs: Stop system and contain spill per material safety guidelines
+PARTS ORDERING
+For replacement parts, provide:
+- Model number: CB-500
+- Serial number: Located on motor nameplate
+- Part description and quantity needed
+- Purchase order number
+Common replacement parts:
+- Drive belt: Part# CB500-BELT-STD
+- Roller bearings: Part# CB500-BEARING-6309
+- Drive pulley lagging: Part# CB500-LAG-DRIVE
+- Motor coupling: Part# CB500-COUPLING-L095
+TECHNICAL SUPPORT
+For issues not resolved by this guide:
+Phone: 1-800-ACME-TECH
+Email: support@acmemfg.com
+Include model number, serial number, and detailed problem description
