@@ -1,0 +1,87 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+    "title": "Manufacturing Support Actions",
+    "version": "1.0.0"
+    },
+    "paths": {
+    "/product-specs": {
+    "post": {
+    "description": "Get product specifications",
+    "summary": "Get product specifications",
+    "operationId": "getProductSpecifications",
+    "requestBody": {
+    "required": true,
+    "content": {
+    "application/json": {
+    "schema": {
+    "type": "object",
+    "properties": {
+    "productModel": {
+    "type": "string",
+    "description": "Product model number"
+    },
+    "specificationType": {
+    "type": "string",
+    "description": "Type of specifications needed"
+    }
+    },
+    "required": ["productModel"]
+    }
+    }
+    }
+    },
+    "responses": {
+    "200": {
+    "description": "Product specifications retrieved",
+    "content": {
+    "application/json": {
+    "schema": {
+    "type": "object",
+    "properties": {
+    "specifications": {
+    "type": "object"
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    },
+    "/warranty-check": {
+    "post": {
+    "summary": "Check warranty status",
+    "description": "Check warranty status",
+    "operationId": "checkWarrantyStatus",
+    "requestBody": {
+    "required": true,
+    "content": {
+    "application/json": {
+    "schema": {
+    "type": "object",
+    "properties": {
+    "serialNumber": {
+    "type": "string",
+    "description": "Product serial number"
+    },
+    "customerId": {
+    "type": "string",
+    "description": "Customer ID"
+    }
+    },
+    "required": ["serialNumber"]
+    }
+    }
+    }
+    },
+    "responses": {
+    "200": {
+    "description": "Warranty status retrieved"
+    }
+    }
+    }
+    }
+    }
+}
