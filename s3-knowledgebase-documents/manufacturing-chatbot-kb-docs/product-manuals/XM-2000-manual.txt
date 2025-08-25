@@ -1,0 +1,70 @@
+ACMEMFG INDUSTRIES
+PRODUCT MANUAL - XM-2000 INDUSTRIAL PUMP
+Document Version: 3.2
+Last Updated: January 2024
+PRODUCT OVERVIEW
+The XM-2000 is a high-performance centrifugal pump designed for demanding industrial applications. This pump delivers reliable operation in chemical processing, water treatment, and general industrial fluid transfer applications.
+TECHNICAL SPECIFICATIONS
+Model: XM-2000
+Flow Rate: 500-2000 GPM (variable based on head requirements)
+Maximum Head: 200 feet
+Power Range: 25-100 HP
+Inlet Size: 6, 8, 10, or 12 inches
+Outlet Size: 4, 6, 8, or 10 inches
+Operating Temperature: -20°F to 400°F (-29°C to 204°C)
+Maximum Pressure: 600 PSI
+Materials: Cast iron casing, stainless steel impeller
+Weight: 500-1200 lbs (depending on configuration)
+INSTALLATION REQUIREMENTS
+1. Foundation must be level concrete pad minimum 6 inches thick
+2. Minimum clearance: 3 feet on all sides for maintenance
+3. Electrical requirements: 460V, 3-phase, 60Hz
+4. Suction piping must be properly supported to prevent stress on pump
+5. Discharge piping should include isolation valve and check valve
+STARTUP PROCEDURE
+1. Verify all electrical connections are secure
+2. Fill pump casing with liquid (priming)
+3. Open suction valve fully
+4. Close discharge valve partially
+5. Start motor and gradually open discharge valve
+6. Monitor pressure and flow readings
+MAINTENANCE SCHEDULE
+Daily: Check for unusual vibration or noise
+Weekly: Verify coupling alignment
+Monthly: Inspect seals for leakage
+Quarterly: Check bearing lubrication
+Annually: Complete impeller and casing inspection
+TROUBLESHOOTING
+Problem: Pump won't prime
+Solutions:
+- Check suction line for air leaks
+- Verify suction valve is fully open
+- Ensure adequate NPSH available
+- Check impeller for damage
+Problem: Low flow rate
+Solutions:
+- Check for clogged strainer
+- Verify impeller clearances
+- Check for cavitation
+- Inspect discharge piping for restrictions
+Problem: Excessive vibration
+Solutions:
+- Check coupling alignment
+- Inspect foundation bolts
+- Verify impeller balance
+- Check bearing condition
+WARRANTY
+Standard warranty: 2 years from date of shipment
+Extended warranty: Available up to 5 years
+Covered components: Motor, impeller, casing, seals, bearings
+Exclusions: Normal wear items, damage from improper operation
+SAFETY WARNINGS
+- Always lockout/tagout before maintenance
+- Wear appropriate PPE when handling chemicals
+- Ensure proper ventilation in enclosed spaces
+- Follow all local electrical codes
+- Never operate pump without proper guarding
+CONTACT INFORMATION
+Technical Support: 1-800-ACME-TECH
+Email: support@acmemfg.com
+Emergency Service: 1-800-ACME-911 (24/7)
