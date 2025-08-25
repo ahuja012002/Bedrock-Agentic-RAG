@@ -1,0 +1,152 @@
+ACMEMFG INDUSTRIES
+GENERAL SAFETY PROCEDURES
+Document Version: 4.1
+Last Updated: January 2024
+LOCKOUT/TAGOUT PROCEDURES
+BEFORE ANY MAINTENANCE:
+1. Notify all affected personnel of planned maintenance
+2. Shut down equipment using normal operating procedures
+3. Isolate all energy sources:
+- Electrical: Open and lock main disconnect
+- Pneumatic: Shut off and bleed air lines
+- Hydraulic: Shut off pumps and relieve pressure
+- Mechanical: Block or secure moving parts
+4. Apply lockout devices to all energy isolation points
+5. Apply personal danger tags to each lockout device
+6. Verify isolation by attempting to start equipment
+7. Test for stored energy (capacitors, springs, pressure)
+PERSONAL PROTECTIVE EQUIPMENT (PPE)
+MINIMUM REQUIREMENTS:
+- Safety glasses with side shields (ANSI Z87.1)
+- Steel-toe safety boots
+- Hard hat in designated areas
+- High-visibility vest in mobile equipment areas
+TASK-SPECIFIC PPE:
+Electrical work:
+- Arc-rated clothing (minimum 8 cal/cm²)
+- Insulated gloves rated for voltage
+- Face shield for live work
+Chemical handling:
+- Chemical-resistant gloves
+- Chemical splash goggles
+- Acid-resistant apron
+- Respiratory protection as required by SDS
+Welding/cutting:
+- Welding helmet with appropriate shade lens
+- Leather welding gloves
+- Fire-resistant clothing
+- Respiratory protection for confined spaces
+CONFINED SPACE ENTRY
+PERMIT REQUIRED SPACES:
+- Inside pump casings larger than 8"
+- Conveyor drive enclosures
+- Underground pits and sumps
+- Any space with potential atmospheric hazards
+ENTRY PROCEDURES:
+1. Obtain confined space entry permit
+2. Test atmosphere for:
+- Oxygen content (19.5% - 23.5%)
+- Combustible gases (<10% LEL)
+- Toxic substances per OSHA PELs
+3. Provide continuous ventilation
+4. Station attendant outside space
+5. Maintain communication with entrant
+6. Have rescue equipment readily available
+CRANE AND LIFTING OPERATIONS
+BEFORE LIFTING:
+1. Inspect lifting equipment (slings, hooks, chains)
+2. Calculate load weight and verify crane capacity
+3. Check for overhead obstructions
+4. Establish clear communication signals
+5. Clear area of unnecessary personnel
+LIFTING PROCEDURES:
+1. Attach rigging using proper lift points
+2. Take slack out of rigging slowly
+3. Lift load slightly and verify balance
+4. Move load smoothly without sudden starts/stops
+5. Never leave suspended load unattended
+6. Lower load to secure position before unhooking
+ELECTRICAL SAFETY
+GENERAL REQUIREMENTS:
+- Only qualified electricians perform electrical work
+- Use proper test equipment to verify de-energized state
+- Assume all circuits are live until proven otherwise
+- Maintain proper approach distances per NFPA 70E
+ARC FLASH PROTECTION:
+- Arc flash studies completed on all equipment
+- Labels indicate required PPE category
+- Never remove panels without proper PPE
+- Use 40-cal/cm² protection for unknown hazards
+CHEMICAL SAFETY
+BEFORE HANDLING CHEMICALS:
+1. Review Safety Data Sheet (SDS)
+2. Ensure proper PPE is available and worn
+3. Verify spill response materials are nearby
+4. Check ventilation is adequate
+5. Have emergency eyewash/shower accessible
+SPILL RESPONSE:
+1. Secure area and notify personnel
+2. Don appropriate PPE before cleanup
+3. Use spill kit materials appropriate for chemical
+4. Dispose of waste per environmental regulations
+5. Complete incident report
+EMERGENCY PROCEDURES
+MEDICAL EMERGENCY:
+1. Call 911 immediately
+2. Provide first aid if trained
+3. Do not move injured person unless in immediate danger
+4. Notify site management
+5. Complete incident report
+FIRE EMERGENCY:
+1. Activate fire alarm
+2. Call 911
+3. Evacuate if safe to do so
+4. Use appropriate fire extinguisher only if:
+- Fire is small and contained
+- You have clear exit path
+- You are trained in extinguisher use
+EQUIPMENT EMERGENCY:
+1. Shut down equipment immediately
+2. Isolate energy sources if safe to do so
+3. Evacuate danger area
+4. Call emergency service: 1-800-ACME-911
+5. Notify site management
+INCIDENT REPORTING
+All incidents must be reported within 24 hours:
+- Safety incidents: safety@acmemfg.com
+- Equipment failures: service@acmemfg.com
+- Environmental spills: environmental@acmemfg.com
+Include:
+- Date, time, and location
+- Personnel involved
+- Equipment involved (model/serial numbers)
+- Description of incident
+- Immediate actions taken
+- Witness information
+TRAINING REQUIREMENTS
+NEW EMPLOYEE ORIENTATION:
+- General safety awareness (4 hours)
+- Site-specific hazards (2 hours)
+- Equipment-specific training (varies)
+- Emergency procedures (1 hour)
+ANNUAL REFRESHER TRAINING:
+- Safety policy updates
+- Incident case studies
+- New equipment procedures
+- Regulatory updates
+SPECIALIZED TRAINING:
+- Confined space entry (8 hours initial, 4 hours annual)
+- Lockout/tagout (4 hours initial, 2 hours annual)
+- Crane operations (40 hours initial, 8 hours annual)
+- Arc flash safety (4 hours initial, 2 hours annual)
+REGULATORY COMPLIANCE
+AcmeMfg equipment is designed to comply with:
+- OSHA 29 CFR 1910 (General Industry Standards)
+- ANSI/ASME B73.1 (Horizontal End Suction Pumps)
+- ANSI/CEMA 550 (Conveyor Safety Standards)
+- NFPA 70 (National Electrical Code)
+- ISO 14121 (Risk Assessment Guidelines)
+For specific compliance questions, contact:
+compliance@acmemfg.com
+Phone: 1-800-ACME-COMPLIANCE
+Remember: Safety is everyone's responsibility. When in doubt, stop work and ask for guidance.
