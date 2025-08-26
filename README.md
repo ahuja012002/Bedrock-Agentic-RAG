@@ -4,6 +4,10 @@ Agentic Retrieval Augmented Generation (RAG) applications represent an advanced 
 
 In this example, we will build an agentic RAG application for a customer support of a manufacturing Company. We have used Bedrock Knowledge Base. Agents in Bedrock backed by Action groups Lambda function . The Agents are coded in Java, Spring boot . The front end consists of static chat application deployed on Amazon S3.
 
+Here is the complete architecture :
+
+<img width="2246" height="759" alt="diagram-export-8-26-2025-1_05_32-PM" src="https://github.com/user-attachments/assets/dc6b6fe4-cd1e-4bc7-946a-81966e53f0e8" />
+
 ## Step 1: Create S3 Bucket for Knowledge Base Documents
 
 Navigate to S3 Console
